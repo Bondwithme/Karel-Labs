@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Problem1
+comment1.params=
+comment1.target=void\ setPins()
+comment2.params=
+comment2.target=void\ set4Row()
+comment3.params=
+comment3.target=void\ set3Row()
+comment4.params=
+comment4.target=void\ set2Row()
+comment5.params=
+comment5.target=void\ set1Row()
+comment6.params=
+comment6.target=void\ turnRight()
+comment7.params=
+comment7.target=void\ beeperPlace()
+comment8.params=
+comment8.target=void\ leftTransition()
+comment9.params=
+comment9.target=void\ rightTransition()
+numComments=10
